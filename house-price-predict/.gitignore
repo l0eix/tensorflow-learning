@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Yarn
+yarn-error.log
+.pnp
+.pnp.js
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# .env file
+.env
+
+# npm debugging logs
+npm-debug.log*
